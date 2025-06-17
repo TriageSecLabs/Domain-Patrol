@@ -58,12 +58,6 @@ A simple, fast, command-line tool for auditing the security hygiene of a list of
 
 ---
 
-### Example Output
-
-
-
----
-
 ### Disclaimer
 
 This tool is provided for educational and authorized security auditing purposes only. Do not use it for any illegal activity. The user is responsible for their own actions.
