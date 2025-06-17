@@ -60,7 +60,7 @@ A simple, fast, command-line tool for auditing the security hygiene of a list of
 
 ### Example Output
 
-  *https://imgur.com/a/YTpLQ1w*
+  [*https://imgur.com/a/YTpLQ1w*](https://i.imgur.com/L12sE0V.png)
 
 ---
 
