@@ -60,7 +60,7 @@ A simple, fast, command-line tool for auditing the security hygiene of a list of
 
 ### Example Output
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YTpLQ1w" data-context="false" ><a href="//imgur.com/a/YTpLQ1w"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ---
 
